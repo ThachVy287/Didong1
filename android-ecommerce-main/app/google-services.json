@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "251859264623",
+    "project_id": "shophtv287",
+    "storage_bucket": "shophtv287.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251859264623:android:bd2b41d0926bfb660f599a",
+        "android_client_info": {
+          "package_name": "com.example.videogamesstore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCnjOPOGM0DM9kaUnbJ0hkuiHfSsk_yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
